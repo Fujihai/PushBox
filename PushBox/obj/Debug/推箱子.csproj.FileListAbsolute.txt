@@ -1,0 +1,13 @@
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\bin\Debug\推箱子.exe.config
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\bin\Debug\推箱子.exe
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\bin\Debug\推箱子.pdb
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.csprojResolveAssemblyReference.cache
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.EditMapForm.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.GameForm.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.GetPlayerName.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.Properties.Resources.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.RankListForm.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.WelcomeForm.resources
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.csproj.GenerateResource.Cache
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.exe
+C:\Users\10198\Desktop\推箱子游戏(完整版)\推箱子2\obj\Debug\推箱子.pdb
