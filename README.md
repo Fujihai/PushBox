@@ -7,6 +7,8 @@ A Game of PushBox developed by C#. (基于C#的推箱子小游戏)
 Feature:
 ------------------------------------------
 
+-----------------------------------------------------------------------------
+
 中文：
 
 这是在VS2015平台上，使用C#语言开发的一个"推箱子"小游戏，该应用程序实现的功能主要如下：
@@ -25,6 +27,9 @@ Feature:
 
 (7) 游戏主要分为三个模式：闯关模式，选关模式、我的地图模式。
 
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
 
 English:
 
@@ -42,7 +47,9 @@ This game developed by C# , based on VS2015 . The feature is as follows:
 
 (6) Support backward and replay.
 
-(7) Thress mode : Breakthrough Mode, Select Level Mode and User-Defined Mode.  
+(7) Thress mode : Breakthrough Mode, Select Level Mode and User-Defined Mode. 
+
+-----------------------------------------------------------------------------
 
 
 Effect:
