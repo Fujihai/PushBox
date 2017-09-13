@@ -47,7 +47,7 @@ This game developed by C# , based on VS2015 . The feature is as follows:
 
 (6) Support backward and replay.
 
-(7) Thress mode : Breakthrough Mode, Select Level Mode and User-Defined Mode. 
+(7) Three mode : Breakthrough Mode, Select Level Mode and User-Defined Mode. 
 
 -----------------------------------------------------------------------------
 
