@@ -7,9 +7,7 @@ A game of PushBox developed by C#.  [中文版](https://github.com/liufushihai/P
 Features
 ------------------------------------------
 
-English:
-
-This game developed by C# , based on VS2015 . The feature is as follows:
+This game developed by C# , based on VS2015 . The features are as follows:
 
 (1) Basic logic of PushBox , support multi-target and multi-box mode.
 
