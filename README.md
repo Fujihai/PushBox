@@ -2,7 +2,7 @@
 
 Introduction
 ------------------------------------------
-A game of PushBox developed by C#.
+A game of PushBox developed by C#.  [中文版](https://github.com/liufushihai/PushBox/blob/master/README-zh.md)
 
 Features
 ------------------------------------------
@@ -61,7 +61,7 @@ Effect
 #### Rank List
 ![排行榜](https://github.com/liufushihai/PushBox/blob/master/Images/4.gif)
 
-[中文版说明](https://github.com/liufushihai/PushBox/blob/master/README-zh.md)
+
 
 
 
